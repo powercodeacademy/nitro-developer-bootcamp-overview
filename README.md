@@ -28,5 +28,6 @@ Below is a broad overview of Power Code Academy's Nitro Developer Bootcamp curri
 * Advanced Git and Github
 * Nitro Systems
 * React
+* Nitro React
 * Nitro Work
 * Final Full Stack Nitro Web Developer Assessment
