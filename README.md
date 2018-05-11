@@ -4,9 +4,10 @@ Below is a broad overview of Power Code Academy's Nitro Developer Bootcamp curri
 
 ## Curriculum
 
-* Welcome - Basic Bash commands & Local Env Setup
+* Bootcamp Prep course - HTML/CSS/Ruby/Javascript
+
+* Welcome - Bash & Local Developer Env Setup
 * Git and Github
-* Intro to Ruby Development
 * HTML and CSS Intro
 * Procedural Ruby
 * Object Oriented Ruby
