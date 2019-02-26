@@ -1,6 +1,6 @@
-# Nitro Developer Bootcamp Overview
+# Power Code Academy Overview
 
-Below is a broad overview of the Power Code Academy's Nitro Developer Bootcamp curriculum. It is subject to change at anytime. Collectively, a course encompasses over 700 lessons in the Learn LMS, multiple pairing projects, 3 formal assessments, 3 individual culmulative projects, 3 blog posts, 3 short presentations, and multiple small bodies of work merged into Nitro. Should you have any questions, please contact Garett Arrowood.
+Below is a broad overview of the Power Code Academy curriculum. It is subject to change at anytime. Collectively, a course encompasses over 700 lessons in the Learn LMS, multiple pairing projects, 3 formal assessments, 3 individual culmulative projects, 3 blog posts, 3 short presentations, and multiple small bodies of work merged into Nitro. Should you have any questions, please contact Garett Arrowood.
 
 ## Curriculum
 
