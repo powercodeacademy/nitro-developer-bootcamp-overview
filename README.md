@@ -27,10 +27,10 @@ Below is a broad overview of the Power Code Academy curriculum. It is subject to
 * Front End Web Development
 * Javascript Assessment
 * Single Page Application (SPA) Project
-* Advanced Git and Github
 * Blog & Presentation 3
 * React
 * Nitro UX
 * GraphQL
+* Advanced Git and Github
 * React/GraphQL Nitro Project
 * Nitro Knowledge
