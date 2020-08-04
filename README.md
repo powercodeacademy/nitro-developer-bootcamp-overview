@@ -13,8 +13,8 @@ Below is a broad overview of the Power Code Academy curriculum. It is subject to
 * Object Oriented Ruby
 * Object Oriented Assessment
 * Command Line Project
-* Blog & Presentation 1
 * SQL (Structured Query Language)
+* Blog & Presentation 1
 * ORMs and ActiveRecord
 * Rack
 * HTML and CSS continued
@@ -23,14 +23,14 @@ Below is a broad overview of the Power Code Academy curriculum. It is subject to
 * Rails Assessment
 * Testing
 * Rails Project
-* Blog & Presentation 2
 * Front End Web Development
+* Blog & Presentation 2
 * Javascript Assessment
 * Single Page Application (SPA) Project
-* Blog & Presentation 3
 * React
+* Blog & Presentation 3
 * Nitro UX
 * GraphQL
 * Advanced Git and Github
-* React/GraphQL Nitro Project
 * Nitro Knowledge
+* React/GraphQL Nitro Project
